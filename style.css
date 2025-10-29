@@ -1,0 +1,27 @@
+body {
+  margin: 20px;
+  padding: 0;
+  font-size: larger;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card {
+  padding: 20px;
+  background: linear-gradient(145deg, rgb(232, 15, 33), #601ce8);
+  display: flex;
+  justify-content: space-evenly;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  color: aliceblue;
+  border-bottom: 8px solid rgb(58, 232, 218);
+  border-radius: 16px;
+}
+.img-avatar {
+  width: 150px;
+  border-radius: 16px;
+  border: none;
+}
+
+.border-blue {
+  border: 6px dotted cornflowerblue;
+}
